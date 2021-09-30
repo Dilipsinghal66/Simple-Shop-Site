@@ -1,4 +1,4 @@
-# Simple-Shop-Site
+# Simple-Site
 A simple shop site with a design pattern of Model-View-Controller and using node, ejs and mongoose.
 
 Run npm install before using.
